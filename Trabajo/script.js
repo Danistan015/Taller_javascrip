@@ -68,7 +68,7 @@ function iniciarFinanza() {
   
           alert(`Resumen Final:\n- Nivel de Salud Financiera: ${nivelSalud}\n- Recomendación: ${recomendacion}\n¡Sigue aprendiendo y mejorando!`);
         }
-        verResumen = false; // Reinicia la variable para que no vuelva a preguntar el resumen en el siguiente ciclo
+        verResumen = false; 
       }
     }
   }
